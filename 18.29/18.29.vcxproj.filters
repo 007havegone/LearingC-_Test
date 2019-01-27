@@ -15,15 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="sales.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="sales.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="usesales.cpp">
+    <ClCompile Include="源.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
